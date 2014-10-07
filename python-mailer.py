@@ -6,7 +6,7 @@ Contact : thisisvishnuashok@gmail.com
 GitHub : http://github.com/p53ud0k0d3
 
     This is a simple email client program, which can be used to send emails from Gmail and Hotmail.
-
+    You must enable "Allow less secure apps" in Gmail settings.
 """
 import smtplib
 import string
