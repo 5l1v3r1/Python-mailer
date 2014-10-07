@@ -1,4 +1,6 @@
-python-mailer
+Python-mailer
 =============
 
-Simple email client program for sending emails from Gmail and Hotmail.
+Simple python program for sending emails from Gmail and Hotmail.
+
+You must enable "Allow less secure apps" in Gmail settings.
